@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Harshithamarthala/mernhello/static/css/main.e6c13ad2.css",
+    "main.js": "/Harshithamarthala/mernhello/static/js/main.86969c13.js",
+    "static/js/453.1b6cbde4.chunk.js": "/Harshithamarthala/mernhello/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/Harshithamarthala/mernhello/index.html",
+    "main.e6c13ad2.css.map": "/Harshithamarthala/mernhello/static/css/main.e6c13ad2.css.map",
+    "main.86969c13.js.map": "/Harshithamarthala/mernhello/static/js/main.86969c13.js.map",
+    "453.1b6cbde4.chunk.js.map": "/Harshithamarthala/mernhello/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.86969c13.js"
+  ]
+}
